@@ -1,2 +1,3 @@
 # Hotel-Management-Data-Analysis-Project-
-https://github.com/mujtbkhn/Hotel-Management-Data-Analysis-Project-/blob/main/Hotel%20Management%20Data%20Analysis%20Project%20.png
+
+![Hotel Management Data Analysis Project ](https://github.com/mujtbkhn/Hotel-Management-Data-Analysis-Project-/assets/86319200/0defe8d6-c325-40ec-85f9-3703b6bc14a6)
